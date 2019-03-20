@@ -1,0 +1,73 @@
+  .btn-primary {
+    background-color: #98BFA3;
+    border-color: #98BFA3;
+    margin-top: 50px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #6C8773;
+    border-color: #5F7866;
+  }
+  
+  .glyphicon-play {
+    font-size: 30px;
+    margin-top: 6px;
+  }
+
+  
+  html,
+  body,
+  #wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .jumbotron {
+    font-size: 120px;
+    text-align: center;
+    color: #76947E;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  /*question*/
+  h3
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    margin-top: 45px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #61302F;
+    margin-bottom: 40px;
+    line-height: 40px;
+  }
+  
+  /*answers*/
+  h4
+  {
+    color: #F8FFFA;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 25px;
+    background-color: rgba(138, 146, 178, 0.6);
+    padding: 5px 0;
+    border-radius: 5px;
+  }
+  
+  /*timer*/
+  h5
+  {
+    color: #343F38;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  
